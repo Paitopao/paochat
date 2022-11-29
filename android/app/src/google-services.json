@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829947319922",
+    "project_id": "reto-3-paitochat",
+    "storage_bucket": "reto-3-paitochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829947319922:android:eb3762e08a7f5cb40f14eb",
+        "android_client_info": {
+          "package_name": "com.example.paochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829947319922-8iomv8o9bvd53rdl4uu1h9kocca73kpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE39RjGBFv57SAntgB_-9XzJ571THCZeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829947319922-8iomv8o9bvd53rdl4uu1h9kocca73kpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
